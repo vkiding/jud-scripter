@@ -1,0 +1,29 @@
+{
+  "name": "jud-scripter",
+  "version": "0.0.1",
+  "dependencies": {
+    "browserify": "~13.0.0",
+    "escodegen": "~1.7.1",
+    "esprima": "~2.7.0",
+    "md5": "~2.1.0",
+    "resolve-bin": "^0.4.0"
+  },
+  "description": "jud scripter",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vkiding/jud-scripter.git"
+  },
+  "keywords": [
+    "jud"
+  ],
+  "author": "vkiding",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/vkiding/jud-scripter/issues"
+  },
+  "homepage": "https://github.com/vkiding/jud-scripter#readme"
+}
